@@ -4,7 +4,6 @@ Complete guide to fine-tuning Microsoft's Phi-3 on your own data and deploying t
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iJM8wDK5SG2FC7Shz6FxsLKu_QYi3nKw?usp=sharing)
 [![YouTube](https://img.shields.io/badge/YouTube-Tutorial-red)](https://youtu.be/He-vkp1qUzU)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## 🚀 Quick Start
 
@@ -46,8 +45,4 @@ See [data/sample_training_data.jsonl](data/training_set_converted.jsonl) for exa
 
 ## 🤝 Contributing
 
-Contributions welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) first.
-
-## 📝 License
-
-MIT License - see [LICENSE](LICENSE)
+Contributions, feedback, and suggestions are welcome!
