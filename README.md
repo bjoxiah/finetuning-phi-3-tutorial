@@ -43,7 +43,7 @@ Your training data should be in JSONL format:
 }
 ```
 
-See [data/sample_training_data.jsonl](data/sample_training_data.jsonl) for examples.
+See [data/sample_training_data.jsonl](data/training_set_converted.jsonl) for examples.
 
 
 ## 🤝 Contributing
